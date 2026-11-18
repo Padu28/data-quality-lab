@@ -1,0 +1,9 @@
+[project]
+name = "dqlab"
+version = "0.1.0"
+description = "Controlled experiments on how label noise and missing data hurt ML models, and which repairs recover the loss."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
