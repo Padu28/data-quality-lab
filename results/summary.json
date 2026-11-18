@@ -1,0 +1,162 @@
+{
+  "hgb|breast_cancer|0.1": {
+    "no_repair": 94.8,
+    "confident_learning": 96.5,
+    "oracle": 95.9
+  },
+  "hgb|breast_cancer|0.2": {
+    "no_repair": 89.0,
+    "confident_learning": 93.8,
+    "oracle": 96.5
+  },
+  "hgb|breast_cancer|0.3": {
+    "no_repair": 77.5,
+    "confident_learning": 89.7,
+    "oracle": 94.5
+  },
+  "hgb|breast_cancer|0.4": {
+    "no_repair": 67.8,
+    "confident_learning": 78.0,
+    "oracle": 95.2
+  },
+  "hgb|digits|0.1": {
+    "no_repair": 96.0,
+    "confident_learning": 96.7,
+    "oracle": 97.2
+  },
+  "hgb|digits|0.2": {
+    "no_repair": 94.1,
+    "confident_learning": 96.1,
+    "oracle": 96.8
+  },
+  "hgb|digits|0.3": {
+    "no_repair": 91.7,
+    "confident_learning": 94.4,
+    "oracle": 96.2
+  },
+  "hgb|digits|0.4": {
+    "no_repair": 86.0,
+    "confident_learning": 93.2,
+    "oracle": 96.2
+  },
+  "hgb|synthetic|0.1": {
+    "no_repair": 93.5,
+    "confident_learning": 95.0,
+    "oracle": 95.6
+  },
+  "hgb|synthetic|0.2": {
+    "no_repair": 91.2,
+    "confident_learning": 93.4,
+    "oracle": 95.4
+  },
+  "hgb|synthetic|0.3": {
+    "no_repair": 89.4,
+    "confident_learning": 92.6,
+    "oracle": 94.9
+  },
+  "hgb|synthetic|0.4": {
+    "no_repair": 86.7,
+    "confident_learning": 91.3,
+    "oracle": 94.8
+  },
+  "hgb|wine|0.1": {
+    "no_repair": 94.7,
+    "confident_learning": 96.9,
+    "oracle": 98.2
+  },
+  "hgb|wine|0.2": {
+    "no_repair": 85.8,
+    "confident_learning": 94.2,
+    "oracle": 99.1
+  },
+  "hgb|wine|0.3": {
+    "no_repair": 80.4,
+    "confident_learning": 86.2,
+    "oracle": 98.2
+  },
+  "hgb|wine|0.4": {
+    "no_repair": 69.3,
+    "confident_learning": 82.2,
+    "oracle": 97.8
+  },
+  "logreg|breast_cancer|0.1": {
+    "no_repair": 94.4,
+    "confident_learning": 95.8,
+    "oracle": 96.9
+  },
+  "logreg|breast_cancer|0.2": {
+    "no_repair": 92.4,
+    "confident_learning": 93.7,
+    "oracle": 96.9
+  },
+  "logreg|breast_cancer|0.3": {
+    "no_repair": 89.8,
+    "confident_learning": 92.4,
+    "oracle": 97.2
+  },
+  "logreg|breast_cancer|0.4": {
+    "no_repair": 77.8,
+    "confident_learning": 82.0,
+    "oracle": 96.2
+  },
+  "logreg|digits|0.1": {
+    "no_repair": 91.9,
+    "confident_learning": 94.3,
+    "oracle": 96.8
+  },
+  "logreg|digits|0.2": {
+    "no_repair": 89.1,
+    "confident_learning": 91.7,
+    "oracle": 96.8
+  },
+  "logreg|digits|0.3": {
+    "no_repair": 88.0,
+    "confident_learning": 89.5,
+    "oracle": 96.3
+  },
+  "logreg|digits|0.4": {
+    "no_repair": 85.3,
+    "confident_learning": 86.4,
+    "oracle": 96.4
+  },
+  "logreg|synthetic|0.1": {
+    "no_repair": 85.8,
+    "confident_learning": 86.1,
+    "oracle": 86.3
+  },
+  "logreg|synthetic|0.2": {
+    "no_repair": 85.4,
+    "confident_learning": 85.8,
+    "oracle": 86.3
+  },
+  "logreg|synthetic|0.3": {
+    "no_repair": 84.9,
+    "confident_learning": 85.5,
+    "oracle": 86.2
+  },
+  "logreg|synthetic|0.4": {
+    "no_repair": 84.5,
+    "confident_learning": 85.1,
+    "oracle": 86.2
+  },
+  "logreg|wine|0.1": {
+    "no_repair": 95.1,
+    "confident_learning": 96.0,
+    "oracle": 99.1
+  },
+  "logreg|wine|0.2": {
+    "no_repair": 90.7,
+    "confident_learning": 96.0,
+    "oracle": 97.3
+  },
+  "logreg|wine|0.3": {
+    "no_repair": 90.7,
+    "confident_learning": 92.9,
+    "oracle": 98.2
+  },
+  "logreg|wine|0.4": {
+    "no_repair": 81.8,
+    "confident_learning": 88.4,
+    "oracle": 98.7
+  }
+}

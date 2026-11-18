@@ -1,0 +1,34 @@
+{
+  "config": "full",
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "large_seeds": [
+    0,
+    1,
+    2
+  ],
+  "noise_rates": [
+    0.0,
+    0.1,
+    0.2,
+    0.3,
+    0.4
+  ],
+  "missing_rates": [
+    0.1,
+    0.3
+  ],
+  "synthetic_n_logreg": 100000,
+  "synthetic_n_hgb": 20000,
+  "synthetic_n_missing": 10000,
+  "ablation_rate": 0.2,
+  "python": "3.13.18",
+  "scikit_learn": "1.9.1",
+  "machine": "x86_64",
+  "runtime_minutes": 27.1
+}
