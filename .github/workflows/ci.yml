@@ -25,3 +25,7 @@ jobs:
           python run.py --quick --out smoke
           python report.py --results smoke
           test -s smoke/REPORT.md
+      - name: Build the results explorer from the committed results
+        run: |
+          python site/build_site.py
+          test -s docs/index.html
